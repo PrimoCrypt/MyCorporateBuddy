@@ -11,12 +11,12 @@
                 </div>
                 <ul tabindex="0"
                     class="menu menu-sm dropdown-content  rounded-box z-[1] mt-3 w-[13rem] p-2 shadow-xl bg-[#FAFAFA] flex flex-col gap-3">
-                    <li><a class="py-2">Home</a></li>
-                    <li><a class="py-2">About Us</a></li>
+                    <li><a class="py-2">Home</a></li><hr/>
+                    <li><a class="py-2">About Us</a></li><hr/>
                     <li><a class="py-2">Contact Us</a></li>
                 </ul>
             </div>
-            <h1 class="btn btn-ghost text-xl cursor-pointer ">
+            <h1 class="btn btn-ghost font-normal text-xl cursor-pointer ">
                 {{ logo }}
             </h1>
         </div>
@@ -29,7 +29,7 @@
             </ul>
         </div>
         <div class="navbar-end">
-            <button class="rounded-full border-[#444444] py-2 px-4 border-solid border-[2px]">Login</button>
+            <button class="rounded-full border-[#888888] py-1 px-2 border-solid border-[2px]">Login</button>
         </div>
     </div>
 </template>
