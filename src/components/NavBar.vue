@@ -29,7 +29,7 @@
             </ul>
         </div>
         <div class="navbar-end">
-            <button class="rounded-ld border-black border-solid border-[2px]">Login</button>
+            <button class="rounded-lg border-black border-solid border-[2px]">Login</button>
         </div>
     </div>
 </template>
